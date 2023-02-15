@@ -1,9 +1,6 @@
-<?php
-     text="je test github action";
-?>
   
 <html>
   <head> <title> Test page title </title>
   <body>
-  <?php echo text; ?>
+  Hello, This is first test deployed to github pages
 </html>
